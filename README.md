@@ -14,14 +14,14 @@ Click the homework title to initialize it in DataHub.
 
 We will be using UC Berkeley's DataHub for at least the first bit of the course. Below is a tutorial on how to pull our homework into DataHub. You are also free to run the notebooks locally on your computer or another service that supports .ipynb (e.g. Google Colab), however we cannot guarantee that other services are fully compatible with the auto-grader and maintaining compatibility will be up to you.
 
-1) Click the homework link below (or in bCourses).  
-   - You will be redirected to UC Berkeley DataHub and prompted to log in with CalNet.
+1) Click the homework link above (or in bCourses).  
+   - You will be redirected to UC Berkeley DataHub and prompted to log in with your CalNetID.
 2) Wait for your server to start (first launch may take a few minutes).
 3) nbgitpuller will automatically pull/update this repository into your home directory on DataHub.
 4) When the file browser opens, navigate to the assignment notebook:
    - p188-288_hw1/HW_01.ipynb (or it may open automatically).
 5) Open the notebook and start working.
-6) Save frequently (File > Save or Ctrl/Cmd+S). Your DataHub home directory persists.
+6) Save frequently (File > Save or Ctrl/Cmd+S). Your DataHub home directory persists across sessions.
 
 Notes:
 - If you already have a copy, clicking the link again will merge in updates without deleting your work when possible.
@@ -61,5 +61,4 @@ Occasionally we may update the assignments to fix bugs or issues brought to us. 
 - Autograder failures that don’t reproduce locally: Restart & Run All and ensure no extra files/print statements alter outputs; re-download the .ipynb and resubmit.
 - If there are updates to the assignment, click the homework link again to pull updates via nbgitpuller.
 - If you have local edits, make/keep a working copy (e.g., HW_01_working.ipynb) before pulling, then manually merge your changes if needed.
-
-
+- If you have any other questions, feel free to contact me at rh_liu@berkeley.edu or contact Markus at markus.hohle@berkeley.edu.
