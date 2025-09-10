@@ -6,7 +6,8 @@ Click the homework title to initialize it in DataHub.
 
 | Homework    | Due Date |
 | -------- | ------- |
-| [Homework 1](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Frhenryliu%2Fphys188-288_2025_public&branch=main&urlpath=lab%2Ftree%2Fphys188-288_2025_public%2Fp188-288_hw1%2FHW_01.ipynb)  | Tuesday, Sept 9th 2025 \@ 11:59 PM    |
+| [Homework 1](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Frhenryliu%2Fphys188-288_2025_public&branch=main&urlpath=lab%2Ftree%2Fphys188-288_2025_public%2Fp188-288_hw1%2FHW_01.ipynb)  | **Tuesday, Sept 9th 2025 \@ 11:59 PM**    |
+| [Homework 2](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Frhenryliu%2Fphys188-288_2025_public&branch=main&urlpath=lab%2Ftree%2Fphys188-288_2025_public%2Fp188-288_hw2) | **Friday, Sept 19th 2025 \@ 11:59 PM**
 
 
 
