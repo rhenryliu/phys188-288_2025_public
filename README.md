@@ -7,13 +7,14 @@ Click the homework title to initialize it in DataHub.
 | Homework    | Due Date |
 | -------- | ------- |
 | [Homework 1](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Frhenryliu%2Fphys188-288_2025_public&branch=main&urlpath=lab%2Ftree%2Fphys188-288_2025_public%2Fp188-288_hw1%2FHW_01.ipynb)  | **Tuesday, Sept 9th 2025 \@ 11:59 PM**    |
-| [Homework 2](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Frhenryliu%2Fphys188-288_2025_public&branch=main&urlpath=lab%2Ftree%2Fphys188-288_2025_public%2Fp188-288_hw2) | **Friday, Sept 19th 2025 \@ 11:59 PM**
+| [Homework 2](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Frhenryliu%2Fphys188-288_2025_public&branch=main&urlpath=lab%2Ftree%2Fphys188-288_2025_public%2Fp188-288_hw2) | **Friday, Sept 19th 2025 \@ 11:59 PM**|
+| [Homework 3](https://astro.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Frhenryliu%2Fphys188-288_2025_public&branch=main&urlpath=lab%2Ftree%2Fphys188-288_2025_public%2Fp188-288_hw3) | **Friday, Sept 26th 2025 \@ 11:59 PM**|
 
 
 
 ## Quick start guide: DataHub + nbgitpuller
 
-We will be using UC Berkeley's DataHub for at least the first bit of the course. Below is a tutorial on how to pull our homework into DataHub. You are also free to run the notebooks locally on your computer or another service that supports .ipynb (e.g. Google Colab), however we cannot guarantee that other services are fully compatible with the auto-grader and maintaining compatibility will be up to you.
+We will be using UC Berkeley's DataHub for at least the first bit of the course. Below is a tutorial on how to pull our homework into DataHub. DataHub will be the supported method for running and completing homework assignments. Although you are free to run the homeworks locally on your computer or another service that supports .ipynb (e.g. Google Colab), we cannot guarantee that other services are fully compatible with the auto-grader and will not be able to offer support with python distribution issues or bugs on anything other than DataHub.
 
 1) Click the homework link above (or in bCourses).  
    - You will be redirected to UC Berkeley DataHub and prompted to log in with your CalNetID.
@@ -22,11 +23,13 @@ We will be using UC Berkeley's DataHub for at least the first bit of the course.
 4) When the file browser opens, navigate to the assignment notebook:
    - p188-288_hw1/HW_01.ipynb (or it may open automatically).
 5) Open the notebook and start working.
-6) Save frequently (File > Save or Ctrl/Cmd+S). Your DataHub home directory persists across sessions.
+6) Check the Python Kernel: Starting with HW3, we will be using astro.datahub for our homeworks, and we have our dedicated Python environment on there for the course. Make sure your Python kernel in JupyterLab is **Python(Physics188-288)**
+7) Save frequently (File > Save or Ctrl/Cmd+S). Your DataHub home directory persists across sessions.
 
 Notes:
 - If you already have a copy, clicking the link again will merge in updates without deleting your work when possible.
 - To avoid merge conflicts, consider making a working copy: File > Make a Copy (e.g., HW_01_working.ipynb).
+- Before you submit to Gradescope, make sure to rename your file back to the original file name (e.g. HW_01_working -> HW_01). This is due to some peculiarities with our autograder setup.
 
 ## Working in the notebook
 
