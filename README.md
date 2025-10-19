@@ -12,6 +12,7 @@ Click the homework title to initialize it in DataHub.
 | [Homework 3](https://astro.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Frhenryliu%2Fphys188-288_2025_public&branch=main&urlpath=lab%2Ftree%2Fphys188-288_2025_public%2Fp188-288_hw3) | **Friday, Sept 26th 2025 \@ 11:59 PM**|
 | [Homework 4](https://astro.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Frhenryliu%2Fphys188-288_2025_public&branch=main&urlpath=lab%2Ftree%2Fphys188-288_2025_public%2Fp188-288_hw4) | **Sunday, Oct 5th 2025 \@ 11:59 PM**|
 | [Project 1](https://astro.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Frhenryliu%2Fphys188-288_2025_public&branch=main&urlpath=lab%2Ftree%2Fphys188-288_2025_public%2Fp188-288_project1) | **Friday, Oct 17th 2025 \@ 11:59 PM**|
+| [Homework 5](https://astro.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Frhenryliu%2Fphys188-288_2025_public&branch=main&urlpath=lab%2Ftree%2Fphys188-288_2025_public%2Fp188-288_hw5) | **Friday, Oct 24th 2025 \@ 11:59 PM** |
 
 
 ## Quick start guide: DataHub + nbgitpuller
